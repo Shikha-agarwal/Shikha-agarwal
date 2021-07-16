@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shikha Agarwal</h1>
-<h3 align="center">A computer science engineer who is passionate about learning new technologies.<img align="right" alt="Code" width="100" src="https://media2.giphy.com/media/pCZwGZHlZUgwhtjYPI/giphy.gif?cid=ecf05e47biyc2qvoxdeaf0r8rmhsgf4r7cxx7xp0rwjbcpob&rid=giphy.gif&ct=s"></h3>
+<h1 align="center">Hi 👋, I'm Shikha Agarwal<img align="right" alt="Code" width="100" src="https://media2.giphy.com/media/pCZwGZHlZUgwhtjYPI/giphy.gif?cid=ecf05e47biyc2qvoxdeaf0r8rmhsgf4r7cxx7xp0rwjbcpob&rid=giphy.gif&ct=s"></h1>
+<h3 align="center">A computer science engineer who is passionate about learning new technologies.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikha-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="shikha-agarwal" /> </p>
