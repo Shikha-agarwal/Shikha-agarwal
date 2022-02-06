@@ -9,6 +9,12 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/X74GovIqGMZYxXblCL/giphy_s.gif?cid=ecf05e47z1078ehdk2i9pbhkeulco6fjaa6tkcqrbm4k0dbr&rid=giphy_s.gif&ct=s">
 <br>
 
+- 🔭 I’m currently working on **Educational Website.**
+
+- 🌱 I’m currently learning **Web development.** 
+
+- 💬 Ask me about **HTML, CSS , Bootstrap , JavaScript , jQuery.**
+
 - 📫 How to reach me **shikhaag7815@gmail.com**
 
 <br>
